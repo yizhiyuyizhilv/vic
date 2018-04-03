@@ -24,7 +24,7 @@ import com.mchange.v2.c3p0.ComboPooledDataSource;
 @EnableAutoConfiguration
 @MapperScan("com.vic.dao")
 public class DataSourceConfig {
-	
+	//test merge
 	private static Logger logger = Logger.getLogger(DataSourceConfig.class);
 
 	@Bean

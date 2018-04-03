@@ -20,7 +20,7 @@ import redis.clients.jedis.JedisPoolConfig;
 @Configuration
 @EnableAutoConfiguration
 public class RedisConfig {
-	//fortest
+	//"change branch"
 	private static Logger logger = Logger.getLogger(RedisConfig.class);
 	
 	@Bean
